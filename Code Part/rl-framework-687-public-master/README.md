@@ -26,8 +26,7 @@ python -m homeworks.homework1
 
 ## Authors
 
-* **Blossom Metevier** - *Teaching Assistant* - [website](https://bmetevier.github.io/)
-* **Scott Jordan** - *Teaching Assistant* - [website](https://people.cs.umass.edu/~sjordan/)
+* **Aditya Vikram Agarwal**
 
 ## License
 
